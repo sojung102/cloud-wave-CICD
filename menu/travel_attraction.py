@@ -2,7 +2,7 @@ import time
 import requests
 import streamlit as st
 
-BACKEND_URL = "http://localhost:5000"
+BACKEND_URL = "http://st28.cj-cloud-wave.store:5000"
 TABLE = "attractions"
 # TABLE = "attractions_redis"
 
